@@ -1,4 +1,5 @@
 //Source - www.geeksforgeeks.org
+//https://www.youtube.com/watch?v=GTJr8OvyEVQ
 #include<bits/stdc++.h>
 using namespace std;
 string pat ,text ;
