@@ -5,6 +5,8 @@ using namespace std;
 string pat ,text ;
 int n , m ;
 int lps[1002]; // longest proper prefix that is also a suffix.
+
+int vivek =0 ; // just check comment to test github
 void fun()
 {
     int i = 1;
